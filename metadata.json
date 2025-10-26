@@ -1,0 +1,5 @@
+{
+  "name": "Java Project Generator",
+  "description": "An application to generate a complete Java project skeleton based on a user's idea, incorporating core concepts like Classes, Inheritance, Exception Handling, Multithreading, File I/O, and JDBC.",
+  "requestFramePermissions": []
+}
